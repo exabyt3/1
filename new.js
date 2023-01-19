@@ -1,5 +1,1 @@
-<html>
-<script>
-alert("XSS")
-</script>
-</html>
+<script>alert(123456)</script>
