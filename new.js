@@ -1,1 +1,3 @@
-alert(123456)
+<html>
+  <script>alert(123456)</script>
+</html>
